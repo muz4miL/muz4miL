@@ -46,7 +46,7 @@ Currently a 7th-semester Computer Science student at IM Sciences, interning at *
 `Next.js` `PostgreSQL` `Prisma`
 [Live](#) · [Repo](#)
 
-**🎓 NexusEdu / Concordia PSH** — Full school management ERP: gradebook, attendance, timetable, bilingual Urdu/English UI, WhatsApp notifications.
+**🎓 NexusEdu — Full school management ERP: gradebook, attendance, timetable, bilingual Urdu/English UI, WhatsApp notifications.
 `NestJS` `Prisma` `MySQL`
 [Live](#) · [Repo](#)
 
